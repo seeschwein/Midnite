@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<circle cx="56.5" cy="39.5" fill="#8fe2ed" r="37.5"/>
+<circle cx="56.5" cy="39.5" fill="#65c2d1" r="31.5"/>
+<path d="M 62.137 39.497 L 74.535 27.101002 C 75.15401 26.48 75.15401 25.469002 74.535 24.850002 L 71.151 21.467005 C 70.527 20.844004 69.523 20.844004 68.898 21.467005 L 56.501 33.862 L 44.107 21.467 C 43.483997 20.845 42.474 20.845 41.85 21.467 L 38.470997 24.851 C 37.844997 25.47 37.844997 26.48 38.470997 27.102 L 50.868996 39.498 L 38.471 51.891 C 37.845 52.518 37.845 53.53 38.471 54.147 L 41.85 57.53 C 42.471 58.157 43.483 58.157 44.107 57.53 L 56.501003 45.134 L 68.898 57.53 C 69.521 58.157 70.525 58.157 71.151 57.53 L 74.535 54.147 C 75.15401 53.532 75.15401 52.52 74.535 51.891 L 62.137 39.497 z " fill="#ffffff"/>
+<rect fill="none" height="96" width="96"/>
+</svg>

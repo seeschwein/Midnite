@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE skin SYSTEM "http://abc.com/skindata.dtd">
+<skin Bits24PixelSupport="false" author="Author" copyright="" drmprotection="false" h="640" name1="Blue" orientation="portrait" package="Blue" protect="allowcopy" puid="" systemtheme="false" type="normal" version="2.0" w="360">
+<phone>
+<model id="italianlab_belle"/>
+<model id="symbian^3_step1"/>
+</phone>
+<element id="qgn_sos_button_left" majorid="0x10005A26" minorid="0x2269" name="Emergency Call Button Left Normal State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_left.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="7"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_sos_button_center" majorid="0x10005A26" minorid="0x226B" name="Emergency Call Button Center Normal State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_center.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="336"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_sos_button_right" majorid="0x10005A26" minorid="0x226A" name="Emergency Call Button Right Normal State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_right.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="7"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_sos_button_press_left" majorid="0x10005A26" minorid="0x226D" name="Emergency Call Button Left Pressed State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_press_left.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="7"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_sos_button_press_center" majorid="0x10005A26" minorid="0x226F" name="Emergency Call Button Center Pressed State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_press_center.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="336"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_sos_button_press_right" majorid="0x10005A26" minorid="0x226E" name="Emergency Call Button Right Pressed State">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_sos_button_press_right.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="54" tile_width="7"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_sec_dialer_highlight" majorid="0x101F86E3" minorid="0x29D9" name="Security Dialer Highlight">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_sec_dialer_highlight.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="NFC_Tutorials_214538852409967" name="NFC Tutorials 2">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="NFC_Tutorials_214538852409967.svg" image_x="0" image_y="0" name="layer0"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_fr_progressbar_bg_l" name="Volume Bar Background Left">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_fr_progressbar_bg_l.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_fr_progressbar_bg_c" name="Volume Bar Background Center">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_fr_progressbar_bg_c.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_fr_progressbar_bg_r" name="Volume Bar Background Right">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_fr_progressbar_bg_r.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_fr_progressbar_fill_blue" name="Volume Bar Fill Blue">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_fr_progressbar_fill_blue.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_prop_checkbox_on" name="Check On">
+<graphic status="actual" type="still" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_prop_checkbox_on.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" status="actual" tile_height="29" tile_width="17"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_prop_checkbox_inactive_on" name="Checkbox Selected Inactive">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_prop_checkbox_inactive_on.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_checkbox_disabled_selected" name="Checkbox Disabled Selected">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_checkbox_disabled_selected.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_checkbox_normal_selected" name="Checkbox Selected">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_checkbox_normal_selected.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_checkbox_pressed" name="Checkbox Pressed">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_checkbox_pressed.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_prop_radiobutt_on" name="Radio Button On">
+<graphic status="actual" type="still" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_prop_radiobutt_on.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" status="actual" tile_height="29" tile_width="17"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_radiobutton_disabled_selected" name="Radio Button Disabled Selected">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_radiobutton_disabled_selected.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_radiobutton_normal_selected" name="Radio Button Selected">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_radiobutton_normal_selected.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qtg_graf_radiobutton_pressed" name="Radio Button Pressed">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qtg_graf_radiobutton_pressed.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="open_app_close" majorid="0x101F86E3" minorid="0x25D0" name="TaskMGR App Close">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="open_app_close.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="open_app_close_pressed" majorid="0x101F86E3" minorid="0x25D1" name="TaskMGR App Close Pressed">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="open_app_close_pressed.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="open_app_close_fp1" majorid="0x101F86E3" minorid="0x29E1" name="App Close FP1">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="open_app_close_fp1.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="open_app_close_pressed_fp1" majorid="0x101F86E3" minorid="0x29E2" name="App Close Press FP1">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="open_app_close_pressed_fp1.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="widget_close" majorid="0x101F86E3" minorid="0x27DC" name="Widget Close">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="widget_close.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="widget_close_pressed" majorid="0x101F86E3" minorid="0x285E" name="Widget Close Pressed">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="widget_close_pressed.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_graf_bar_progress" name="Progress Bar">
+<graphic animateseqno="0" status="actual" type="still" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_progress.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" status="actual" tile_height="17" tile_width="322"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_graf_bar_wait_anim" name="Wait Bar" type="animate">
+<graphic animateseqno="0" animatetime="125" status="actual" type="animate" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_1.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="1" animatetime="125" status="actual" type="animate" uniqueid="1">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_2.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="2" animatetime="125" status="actual" type="animate" uniqueid="2">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_3.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="3" animatetime="125" status="actual" type="animate" uniqueid="3">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_4.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="4" animatetime="125" status="actual" type="animate" uniqueid="4">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_5.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="5" animatetime="125" status="actual" type="animate" uniqueid="5">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_6.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+<graphic animateseqno="6" animatetime="125" status="actual" type="animate" uniqueid="6">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_graf_bar_wait_anim_7.svg" image_x="0" image_y="0" name="layer0" status="actual"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_11" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_11.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_21" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_21.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_22" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_22.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_31" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_31.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_32" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_32.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_33" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_33.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_41" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_41.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="12" tile_width="70"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_42" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_42.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_43" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_43.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_44" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_44.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_51" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_51.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_52" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_52.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_53" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_53.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_54" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_54.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_55" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_55.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_61" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_61.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_62" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_62.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_63" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_63.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_64" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_64.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_65" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_65.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_home_page_66" name="Homepage indicator">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_home_page_66.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="61" tile_width="360"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_prop_refresh_mp_indi" majorid="0x101F86E3" minorid="0x297D" name="Slider Seeker">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_prop_refresh_mp_indi.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+<element id="qgn_prop_refresh_mp_indi_press" majorid="0x101F86E3" minorid="0x297E" name="Slider Seeker Pressed">
+<graphic status="actual" uniqueid="0">
+<image>
+<layer angle="0" colourdepth="c16" entity_x="0" entity_y="0" filename="qgn_prop_refresh_mp_indi_press.svg" image_x="0" image_y="0" ms="WithAspectRatio" name="layer0" tile_height="90" tile_width="90"/>
+</image>
+</graphic>
+</element>
+</skin>

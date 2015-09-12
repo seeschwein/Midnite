@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="16px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 16" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<rect fill="none" height="16" width="96"/>
+<g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="55.4" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="55.4" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="50.4" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="70.201" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="70.201" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="65.201" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="40.6" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="40.6" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="35.6" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="25.799" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="25.799" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="20.799" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="10.998" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="10.998" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="5.998" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<path d="M 85.002 12.698 C 81.707 12.698 80.303 11.294 80.303 8.000999 C 80.303 4.7059994 81.707 3.3029995 85.002 3.3029995 C 88.295 3.3029995 89.701 4.7059994 89.701 8.000999 C 89.701 11.294 88.295 12.698 85.002 12.698 z " fill-opacity="0.1" stroke-opacity="0.1"/>
+<path d="M 85.002 5.181 C 87.783 5.181 88.76 6.156 88.76 8.942 C 88.76 11.724001 87.783005 12.699 85.002 12.699 C 82.215 12.699 81.244 11.724 81.244 8.942 C 81.244 6.155 82.215 5.181 85.002 5.181 z " fill-opacity="0.5" stroke-opacity="0.5"/>
+<path d="M 85.002 4.242 C 87.783 4.242 88.76 5.216 88.76 8.001 C 88.76 10.785 87.783005 11.759001 85.002 11.759001 C 82.215 11.759001 81.244 10.785001 81.244 8.001001 C 81.244 5.216 82.215 4.242 85.002 4.242 z " fill="#e16400"/>
+</g>
+<rect fill="none" height="10" width="10" x="80.002" y="3"/>
+</g>
+</g>
+</g>
+</svg>

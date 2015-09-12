@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="15.0005" x2="15.0005" y1="29.4619" y2="-0.2529">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<path d="M 15.013 30.0 L 14.516999 29.716 C 14.240999 29.557 7.702999 25.762 4.4399996 20.227 C 3.1659994 18.418999 2.5519996 15.800999 2.5519996 12.051999 C 2.552 3.267 5.925 0.0 14.999 0.0 C 24.075 0.0 27.448 3.267 27.448 12.052 C 27.448 15.597 26.904 18.11 25.736 19.961 C 22.571 25.618 15.7960005 29.552 15.508 29.716 L 15.013 30.0 z " fill="url(#SVGID_1_)" fill-opacity="0.4" stroke-opacity="0.4"/>
+<path d="M 26.453 12.081 C 26.453 3.8910007 23.484 1.0250006 14.998999 1.0250006 C 6.5149984 1.0250006 3.5479984 3.8900006 3.5479984 12.081 C 3.5479984 15.511001 4.0699983 18.005001 5.2969985 19.75 C 8.463999 25.121 15.012999 28.882 15.012999 28.882 C 15.012999 28.882 21.8 24.986 24.893997 19.459 C 25.982 17.733 26.453 15.325 26.453 12.081 " fill="#0f0f0f"/>
+<linearGradient gradientTransform="matrix(0.78355702,0,0,1,18.56455,-29.618644)" gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" y1="0.7471" y2="29.1486">
+<stop offset="0" stop-color="#505050"/>
+<stop offset="0.011" stop-color="#4f4f4f"/>
+<stop offset="0.2485" stop-color="#333333"/>
+<stop offset="0.4877" stop-color="#1f1f1f"/>
+<stop offset="0.7276" stop-color="#131313"/>
+<stop offset="0.9693" stop-color="#0f0f0f"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" y1="1.4941" y2="12.9467">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<rect fill="none" height="30" width="30"/>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="16px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 16" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<rect fill="none" height="16" width="96"/>
+<g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="48" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="48" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="43" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="62.801" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="62.801" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="57.801" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="33.199" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="33.199" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="28.199" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="18.398" cy="8.744" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="18.398" cy="7.256" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="13.398" y="3"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<path d="M 77.602 12.699 C 74.307 12.699 72.903 11.295 72.903 8.002001 C 72.903 4.7070007 74.307 3.303001 77.602 3.303001 C 80.895 3.303001 82.300995 4.7070007 82.300995 8.002001 C 82.301 11.295 80.895 12.699 77.602 12.699 z " fill-opacity="0.1" stroke-opacity="0.1"/>
+<path d="M 77.602 5.182 C 80.383 5.182 81.36 6.157 81.36 8.942 C 81.36 11.725 80.383 12.700001 77.602 12.700001 C 74.814995 12.700001 73.843994 11.725 73.843994 8.942001 C 73.844 6.156 74.814 5.182 77.602 5.182 z " fill-opacity="0.5" stroke-opacity="0.5"/>
+<path d="M 77.602 4.242 C 80.383 4.242 81.36 5.217 81.36 8.002 C 81.36 10.785 80.383 11.76 77.602 11.76 C 74.814995 11.76 73.843994 10.785 73.843994 8.002001 C 73.844 5.217 74.814 4.242 77.602 4.242 z " fill="#8fe2ed"/>
+</g>
+<rect fill="none" height="10" width="10" x="72.602" y="3"/>
+</g>
+</g>
+</g>
+</svg>

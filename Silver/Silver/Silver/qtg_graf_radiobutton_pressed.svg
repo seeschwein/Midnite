@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="42px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 42 42" width="42px" x="0px" y="0px" zoomAndPan="magnify">
+<path d="M 21.0 3.857 L 21.0 3.857 C 8.302 3.857 3.857 8.3 3.857 21.0 C 3.857 33.701 8.302 38.143 21.0 38.143 L 21.0 38.143 C 33.698 38.143 38.143 33.701996 38.143 20.999998 C 38.143 8.3 33.698 3.857 21.0 3.857 z " fill="#e7e2d7"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="20.9995" x2="20.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4.1431" y2="38.7565">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.1404" stop-color="#ffffff" stop-opacity="0.8596"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 21.0 3.857 L 21.0 3.857 C 8.302 3.857 3.857 8.3 3.857 21.0 C 3.857 33.701 8.302 38.143 21.0 38.143 L 21.0 38.143 C 33.698 38.143 38.143 33.701996 38.143 20.999998 C 38.143 8.3 33.698 3.857 21.0 3.857 z " fill="url(#SVGID_1_)" fill-opacity="0.3" stroke-opacity="0.3"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="21.0005" x2="21.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="39" y2="3.0005">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.5"/>
+</linearGradient>
+<path d="M 21.0 3.857 C 33.698 3.857 38.143 8.3 38.143 21.0 C 38.143 33.701 33.699 38.143 21.000002 38.143 L 21.000002 38.143 C 8.302 38.143 3.857 33.701 3.857 21.0 C 3.857 8.3 8.302 3.857 21.0 3.857 L 21.0 3.857 M 21.0 3.0 L 21.0 3.0 C 7.878 3.0 3.0 7.878 3.0 21.0 C 3.0 34.122 7.878 39.0 21.0 39.0 L 21.0 39.0 C 34.121 39.0 39.0 34.122 39.0 21.0 C 39.0 7.8779984 34.121 3.0 21.0 3.0 L 21.0 3.0 z " fill="url(#SVGID_2_)" fill-opacity="0.35" stroke-opacity="0.35"/>
+<path d="M 21.0 3.857 C 8.302 3.857 3.857 8.3 3.857 21.0 C 3.857 33.701 8.302 38.143 21.0 38.143 C 33.698 38.143 38.143 33.701 38.143 21.0 C 38.143 8.3 33.698 3.857 21.0 3.857 z M 21.0 35.571 C 9.833 35.571 6.429 32.167 6.429 21.0 C 6.429 9.833 9.833 6.429 21.0 6.429 C 32.168 6.429 35.571 9.833 35.571 21.0 C 35.571 32.167 32.168 35.571 21.0 35.571 z " fill="url(#SVGID_5_)" fill-opacity="0.05" stroke-opacity="0.05"/>
+<path d="M 21.0 3.857 C 8.302 3.857 3.857 8.3 3.857 21.0 C 3.857 33.701 8.302 38.143 21.0 38.143 C 33.698 38.143 38.143 33.701 38.143 21.0 C 38.143 8.3 33.698 3.857 21.0 3.857 z M 21.0 36.429 C 9.321 36.429 5.571 32.68 5.571 21.0 C 5.571 9.32 9.321 5.571 21.0 5.571 C 32.68 5.571 36.429 9.32 36.429 21.0 C 36.429 32.68 32.68 36.429 21.0 36.429 z " fill="url(#SVGID_5_)" fill-opacity="0.1" stroke-opacity="0.1"/>
+<path d="M 21.0 3.857 C 8.302 3.857 3.857 8.3 3.857 21.0 C 3.857 33.701 8.302 38.143 21.0 38.143 C 33.698 38.143 38.143 33.701 38.143 21.0 C 38.143 8.3 33.698 3.857 21.0 3.857 z M 21.0 37.286 C 8.824 37.286 4.714 33.177 4.714 21.0 C 4.714 8.824 8.824 4.714 21.0 4.714 C 33.178 4.714 37.285 8.824 37.285 21.0 C 37.285 33.177 33.178 37.286 21.0 37.286 z " fill="url(#SVGID_5_)" fill-opacity="0.15" stroke-opacity="0.15"/>
+<path d="M 21.0 15.369 C 15.528999 15.369 14.339001 17.741 14.339001 22.107 C 14.339001 26.481 15.564001 28.855 21.0 28.855 C 26.469 28.855 27.66 26.488 27.66 22.124 C 27.66 17.75 26.438 15.369 21.0 15.369 z " fill-opacity="0.5" stroke-opacity="0.5"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_6_" x1="20.9995" x2="20.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="14.1733" y2="28.5054">
+<stop offset="0" stop-color="#b4ad9e"/>
+<stop offset="1" stop-color="#bab5a2"/>
+</linearGradient>
+<path d="M 21.0 14.001 C 15.528999 14.001 14.339001 16.375 14.339001 20.739 C 14.339001 25.114 15.564001 27.489 21.0 27.489 C 26.469 27.489 27.66 25.121 27.66 20.758 C 27.66 16.382 26.438 14.001 21.0 14.001 z " fill="url(#SVGID_6_)"/>
+<rect fill="none" height="42" width="42"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_5_" x1="20.9995" x2="20.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4.5005" y2="37.2861">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

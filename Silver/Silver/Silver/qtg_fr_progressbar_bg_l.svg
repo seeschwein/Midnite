@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="18px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 6 18" width="6px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<path d="M 5.044 4.0 C 0.6 4.0 -0.0010 6.527 -0.0010 8.994 C -0.0010 11.471 0.6 14.0 5.044 14.0 L 6.0010004 14.0 C 6.0010004 10.711 6.0010004 7.289 6.0010004 4.0 L 5.044 4.0 z " fill-opacity="0.9"/>
+<path d="M 5.044 4.0 C 0.6 4.0 -0.0010 6.527 -0.0010 8.994 C -0.0010 11.471 0.6 14.0 5.044 14.0 L 6.0010004 14.0 C 6.0010004 10.711 6.0010004 7.289 6.0010004 4.0 L 5.044 4.0 z " fill="url(#SVGID_1_)" fill-opacity="0.25"/>
+<path d="M 5.044 4.0 C 0.6 4.0 -0.0010 6.527 -0.0010 8.994 C -0.0010 9.162001 0.0030 9.328 0.0090 9.496 C 0.1 7.197 0.897 5.0 5.044 5.0 L 6.0010004 5.0 C 6.0010004 4.666 6.0010004 4.331 6.0010004 4.0 L 5.044 4.0 z " fill="#262626" fill-opacity="0.4"/>
+<path d="M 5.044 13.0 C 0.897 13.0 0.1 10.803 0.0090 8.506 C 0.0029999996 8.672 -0.0010000002 8.839999 -0.0010000002 9.006 C -0.0010 11.475 0.6 14.0 5.044 14.0 L 6.0010004 14.0 C 6.0010004 13.669 6.0010004 13.334 6.0010004 13.0 L 5.044 13.0 z " fill="#b8b8b8" fill-opacity="0.05"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="3.0005" x2="3.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="14" y2="4.0005">
+<stop offset="0" stop-color="#575757"/>
+<stop offset="1" stop-color="#575757" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</g>
+<rect fill="none" height="18" width="6"/>
+</svg>

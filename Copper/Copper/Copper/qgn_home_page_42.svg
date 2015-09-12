@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="16px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 16" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="70.201" cy="8.772" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="70.201" cy="7.284" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="65.201" y="3.028"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="55.4" cy="8.772" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="55.4" cy="7.284" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="50.4" y="3.028"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<circle cx="25.799" cy="8.772" fill="#ffffff" fill-opacity="0.4" r="2.982" stroke-opacity="0.4"/>
+<circle cx="25.799" cy="7.284" fill-opacity="0.9" r="2.982" stroke-opacity="0.9"/>
+</g>
+<rect fill="none" height="10" width="10" x="20.799" y="3.028"/>
+</g>
+<g fill-opacity="0.7" stroke-opacity="0.7">
+<g>
+<path d="M 40.6 12.727 C 37.305 12.727 35.900997 11.323 35.900997 8.030001 C 35.900997 4.7350006 37.304996 3.3320007 40.6 3.3320007 C 43.893 3.3320007 45.299 4.7350006 45.299 8.030001 C 45.299 11.322 43.893 12.727 40.6 12.727 z " fill-opacity="0.1" stroke-opacity="0.1"/>
+<path d="M 40.6 5.209 C 43.380997 5.209 44.358 6.184 44.358 8.97 C 44.358 11.752001 43.380997 12.727 40.6 12.727 C 37.813 12.727 36.842 11.752 36.842 8.97 C 36.842 6.184 37.813 5.209 40.6 5.209 z " fill-opacity="0.5" stroke-opacity="0.5"/>
+<path d="M 40.6 4.271 C 43.380997 4.271 44.358 5.245 44.358 8.03 C 44.358 10.813999 43.380997 11.788 40.6 11.788 C 37.813 11.788 36.842 10.814 36.842 8.030001 C 36.842 5.244 37.813 4.271 40.6 4.271 z " fill="#e16400"/>
+</g>
+<rect fill="none" height="10" width="10" x="35.6" y="3.028"/>
+</g>
+</g>
+<rect fill="none" height="16" width="96" y="0.028"/>
+</g>
+</svg>
